@@ -1,4 +1,4 @@
 {
-  "maintenance": "true",
-  "message": "TEST"
+  "maintenance": "false",
+  "message": "The server is currently under maintenance. Please try again later.",
 }
